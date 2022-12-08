@@ -6,6 +6,12 @@ luac.out
 *.zip
 *.tar.gz
 
+# luvit
+deps
+
+# settings
+settings.lua
+
 # Object files
 *.o
 *.os
