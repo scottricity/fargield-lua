@@ -87,3 +87,199 @@
 2022-12-07 22:33:22 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
 2022-12-07 22:33:22 | [INFO]    | Shard 0 : Received HELLO
 2022-12-07 22:33:22 | [INFO]    | Shard 0 : Received READY
+2022-12-07 22:38:12 | [INFO]    | Discordia 2.10.0-1
+2022-12-07 22:38:12 | [INFO]    | Connecting to Discord...
+2022-12-07 22:38:12 | [INFO]    | Authenticated as fargield#8541
+2022-12-07 22:38:12 | [INFO]    | Launching shard 0 (1 out of 1)...
+2022-12-07 22:38:12 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2022-12-07 22:38:12 | [INFO]    | Shard 0 : Received HELLO
+2022-12-07 22:38:13 | [INFO]    | Shard 0 : Received READY
+2022-12-07 22:39:09 | [INFO]    | Discordia 2.10.0-1
+2022-12-07 22:39:09 | [INFO]    | Connecting to Discord...
+2022-12-07 22:39:09 | [INFO]    | Authenticated as fargield#8541
+2022-12-07 22:39:09 | [INFO]    | Launching shard 0 (1 out of 1)...
+2022-12-07 22:39:10 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2022-12-07 22:39:10 | [INFO]    | Shard 0 : Received HELLO
+2022-12-07 22:39:10 | [INFO]    | Shard 0 : Received READY
+2022-12-07 22:39:38 | [INFO]    | Discordia 2.10.0-1
+2022-12-07 22:39:38 | [INFO]    | Connecting to Discord...
+2022-12-07 22:39:38 | [INFO]    | Authenticated as fargield#8541
+2022-12-07 22:39:38 | [INFO]    | Launching shard 0 (1 out of 1)...
+2022-12-07 22:39:38 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2022-12-07 22:39:38 | [INFO]    | Shard 0 : Received HELLO
+2022-12-07 22:39:38 | [INFO]    | Shard 0 : Received READY
+2022-12-07 22:52:42 | [INFO]    | Discordia 2.10.0-1
+2022-12-07 22:52:42 | [INFO]    | Connecting to Discord...
+2022-12-07 22:52:43 | [INFO]    | Authenticated as fargield#8541
+2022-12-07 22:52:43 | [INFO]    | Launching shard 0 (1 out of 1)...
+2022-12-07 22:52:43 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2022-12-07 22:52:43 | [INFO]    | Shard 0 : Received HELLO
+2022-12-07 22:52:43 | [INFO]    | Shard 0 : Received READY
+2022-12-07 23:19:51 | [INFO]    | Shard 0 : Disconnected
+2022-12-07 23:19:51 | [INFO]    | Shard 0 : Reconnecting after 926 ms...
+2022-12-07 23:19:52 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2022-12-07 23:19:52 | [INFO]    | Shard 0 : Received HELLO
+2022-12-07 23:19:52 | [INFO]    | Shard 0 : Received RESUMED
+2022-12-07 23:45:31 | [INFO]    | Discordia 2.10.0-1
+2022-12-07 23:45:31 | [INFO]    | Connecting to Discord...
+2022-12-07 23:45:31 | [INFO]    | Authenticated as fargield#8541
+2022-12-07 23:45:31 | [INFO]    | Launching shard 0 (1 out of 1)...
+2022-12-07 23:45:31 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2022-12-07 23:45:31 | [INFO]    | Shard 0 : Received HELLO
+2022-12-07 23:45:32 | [INFO]    | Shard 0 : Received READY
+2022-12-07 23:50:41 | [INFO]    | Discordia 2.10.0-1
+2022-12-07 23:50:41 | [INFO]    | Connecting to Discord...
+2022-12-07 23:50:41 | [INFO]    | Authenticated as fargield#8541
+2022-12-07 23:50:41 | [INFO]    | Launching shard 0 (1 out of 1)...
+2022-12-07 23:50:41 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2022-12-07 23:50:41 | [INFO]    | Shard 0 : Received HELLO
+2022-12-07 23:50:41 | [INFO]    | Shard 0 : Received READY
+2022-12-07 23:54:04 | [INFO]    | Discordia 2.10.0-1
+2022-12-07 23:54:04 | [INFO]    | Connecting to Discord...
+2022-12-07 23:54:04 | [INFO]    | Authenticated as fargield#8541
+2022-12-07 23:54:04 | [INFO]    | Launching shard 0 (1 out of 1)...
+2022-12-07 23:54:04 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2022-12-07 23:54:04 | [INFO]    | Shard 0 : Received HELLO
+2022-12-07 23:54:04 | [INFO]    | Shard 0 : Received READY
+2022-12-07 23:57:12 | [INFO]    | Discordia 2.10.0-1
+2022-12-07 23:57:12 | [INFO]    | Connecting to Discord...
+2022-12-07 23:57:13 | [INFO]    | Authenticated as fargield#8541
+2022-12-07 23:57:13 | [INFO]    | Launching shard 0 (1 out of 1)...
+2022-12-07 23:57:13 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2022-12-07 23:57:13 | [INFO]    | Shard 0 : Received HELLO
+2022-12-07 23:57:13 | [INFO]    | Shard 0 : Received READY
+2022-12-07 23:58:02 | [INFO]    | Discordia 2.10.0-1
+2022-12-07 23:58:02 | [INFO]    | Connecting to Discord...
+2022-12-07 23:58:02 | [INFO]    | Authenticated as fargield#8541
+2022-12-07 23:58:02 | [INFO]    | Launching shard 0 (1 out of 1)...
+2022-12-07 23:58:02 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2022-12-07 23:58:02 | [INFO]    | Shard 0 : Received HELLO
+2022-12-07 23:58:02 | [INFO]    | Shard 0 : Received READY
+2022-12-08 00:08:26 | [INFO]    | Discordia 2.10.0-1
+2022-12-08 00:08:26 | [INFO]    | Connecting to Discord...
+2022-12-08 00:08:26 | [INFO]    | Authenticated as fargield#8541
+2022-12-08 00:08:26 | [INFO]    | Launching shard 0 (1 out of 1)...
+2022-12-08 00:08:27 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2022-12-08 00:08:27 | [INFO]    | Shard 0 : Received HELLO
+2022-12-08 00:08:27 | [INFO]    | Shard 0 : Received READY
+2022-12-08 00:09:48 | [INFO]    | Discordia 2.10.0-1
+2022-12-08 00:09:48 | [INFO]    | Connecting to Discord...
+2022-12-08 00:09:49 | [INFO]    | Authenticated as fargield#8541
+2022-12-08 00:09:49 | [INFO]    | Launching shard 0 (1 out of 1)...
+2022-12-08 00:09:49 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2022-12-08 00:09:49 | [INFO]    | Shard 0 : Received HELLO
+2022-12-08 00:09:49 | [INFO]    | Shard 0 : Received READY
+2022-12-08 14:02:37 | [INFO]    | Discordia 2.10.0-1
+2022-12-08 14:02:37 | [INFO]    | Connecting to Discord...
+2022-12-08 14:02:37 | [INFO]    | Authenticated as fargield#8541
+2022-12-08 14:02:37 | [INFO]    | Launching shard 0 (1 out of 1)...
+2022-12-08 14:02:37 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2022-12-08 14:02:37 | [INFO]    | Shard 0 : Received HELLO
+2022-12-08 14:02:37 | [INFO]    | Shard 0 : Received READY
+2022-12-08 14:02:38 | [ERROR]   | Cannot prepare voice connection: libopus not found
+2022-12-08 14:04:12 | [INFO]    | Discordia 2.10.0-1
+2022-12-08 14:04:12 | [INFO]    | Connecting to Discord...
+2022-12-08 14:04:12 | [INFO]    | Authenticated as fargield#8541
+2022-12-08 14:04:12 | [INFO]    | Launching shard 0 (1 out of 1)...
+2022-12-08 14:04:12 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2022-12-08 14:04:12 | [INFO]    | Shard 0 : Received HELLO
+2022-12-08 14:04:12 | [INFO]    | Shard 0 : Received READY
+2022-12-08 14:04:13 | [ERROR]   | Cannot prepare voice connection: libsodium not found
+2022-12-08 14:59:37 | [INFO]    | Discordia 2.10.0-1
+2022-12-08 14:59:37 | [INFO]    | Connecting to Discord...
+2022-12-08 14:59:37 | [INFO]    | Authenticated as fargield#8541
+2022-12-08 14:59:37 | [INFO]    | Launching shard 0 (1 out of 1)...
+2022-12-08 14:59:37 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2022-12-08 14:59:37 | [INFO]    | Shard 0 : Received HELLO
+2022-12-08 14:59:38 | [INFO]    | Shard 0 : Received READY
+2022-12-08 14:59:38 | [ERROR]   | Cannot prepare voice connection: libopus not found
+2022-12-08 15:03:53 | [INFO]    | Discordia 2.10.0-1
+2022-12-08 15:03:53 | [INFO]    | Connecting to Discord...
+2022-12-08 15:03:54 | [INFO]    | Authenticated as fargield#8541
+2022-12-08 15:03:54 | [INFO]    | Launching shard 0 (1 out of 1)...
+2022-12-08 15:03:54 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2022-12-08 15:03:54 | [INFO]    | Shard 0 : Received HELLO
+2022-12-08 15:03:55 | [INFO]    | Shard 0 : Received READY
+2022-12-08 15:03:56 | [ERROR]   | Cannot prepare voice connection: libopus not found
+2022-12-08 15:04:15 | [INFO]    | Discordia 2.10.0-1
+2022-12-08 15:04:15 | [INFO]    | Connecting to Discord...
+2022-12-08 15:04:15 | [INFO]    | Authenticated as fargield#8541
+2022-12-08 15:04:15 | [INFO]    | Launching shard 0 (1 out of 1)...
+2022-12-08 15:04:15 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2022-12-08 15:04:15 | [INFO]    | Shard 0 : Received HELLO
+2022-12-08 15:04:15 | [INFO]    | Shard 0 : Received READY
+2022-12-08 15:04:16 | [ERROR]   | Cannot prepare voice connection: libsodium not found
+2022-12-08 15:19:21 | [INFO]    | Discordia 2.10.0-1
+2022-12-08 15:19:21 | [INFO]    | Connecting to Discord...
+2022-12-08 15:19:21 | [INFO]    | Authenticated as fargield#8541
+2022-12-08 15:19:21 | [INFO]    | Launching shard 0 (1 out of 1)...
+2022-12-08 15:19:21 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2022-12-08 15:19:21 | [INFO]    | Shard 0 : Received HELLO
+2022-12-08 15:19:21 | [INFO]    | Shard 0 : Received READY
+2022-12-08 15:19:22 | [ERROR]   | Cannot prepare voice connection: libopus not found
+2022-12-08 15:27:47 | [INFO]    | Discordia 2.10.0-1
+2022-12-08 15:27:47 | [INFO]    | Connecting to Discord...
+2022-12-08 15:27:47 | [INFO]    | Authenticated as fargield#8541
+2022-12-08 15:27:47 | [INFO]    | Launching shard 0 (1 out of 1)...
+2022-12-08 15:27:47 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2022-12-08 15:27:47 | [INFO]    | Shard 0 : Received HELLO
+2022-12-08 15:27:48 | [INFO]    | Shard 0 : Received READY
+2022-12-08 15:28:50 | [INFO]    | Discordia 2.10.0-1
+2022-12-08 15:28:50 | [INFO]    | Connecting to Discord...
+2022-12-08 15:28:51 | [INFO]    | Authenticated as fargield#8541
+2022-12-08 15:28:51 | [INFO]    | Launching shard 0 (1 out of 1)...
+2022-12-08 15:28:51 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2022-12-08 15:28:51 | [INFO]    | Shard 0 : Received HELLO
+2022-12-08 15:28:51 | [INFO]    | Shard 0 : Received READY
+2022-12-08 18:49:01 | [INFO]    | Discordia 2.10.0-1
+2022-12-08 18:49:01 | [INFO]    | Connecting to Discord...
+2022-12-08 18:49:01 | [INFO]    | Authenticated as fargield#8541
+2022-12-08 18:49:02 | [INFO]    | Launching shard 0 (1 out of 1)...
+2022-12-08 18:49:02 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2022-12-08 18:49:02 | [INFO]    | Shard 0 : Received HELLO
+2022-12-08 18:49:02 | [INFO]    | Shard 0 : Received READY
+2022-12-08 18:49:10 | [ERROR]   | Cannot prepare voice connection: libopus not found
+2022-12-08 19:03:23 | [INFO]    | Discordia 2.10.0-1
+2022-12-08 19:03:23 | [INFO]    | Connecting to Discord...
+2022-12-08 19:03:23 | [INFO]    | Authenticated as fargield#8541
+2022-12-08 19:03:23 | [INFO]    | Launching shard 0 (1 out of 1)...
+2022-12-08 19:03:23 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2022-12-08 19:03:23 | [INFO]    | Shard 0 : Received HELLO
+2022-12-08 19:03:23 | [INFO]    | Shard 0 : Received READY
+2022-12-08 19:03:30 | [ERROR]   | Cannot prepare voice connection: libopus not found
+2022-12-08 19:08:31 | [INFO]    | Discordia 2.10.0-1
+2022-12-08 19:08:31 | [INFO]    | Connecting to Discord...
+2022-12-08 19:08:31 | [INFO]    | Authenticated as fargield#8541
+2022-12-08 19:08:31 | [INFO]    | Launching shard 0 (1 out of 1)...
+2022-12-08 19:08:31 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2022-12-08 19:08:31 | [INFO]    | Shard 0 : Received HELLO
+2022-12-08 19:08:31 | [INFO]    | Shard 0 : Received READY
+2022-12-08 19:11:07 | [INFO]    | Discordia 2.10.0-1
+2022-12-08 19:11:07 | [INFO]    | Connecting to Discord...
+2022-12-08 19:11:07 | [INFO]    | Authenticated as fargield#8541
+2022-12-08 19:11:07 | [INFO]    | Launching shard 0 (1 out of 1)...
+2022-12-08 19:11:07 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2022-12-08 19:11:07 | [INFO]    | Shard 0 : Received HELLO
+2022-12-08 19:11:07 | [INFO]    | Shard 0 : Received READY
+2022-12-08 19:11:13 | [ERROR]   | Cannot prepare voice connection: libopus not found
+2022-12-08 19:13:25 | [INFO]    | Discordia 2.10.0-1
+2022-12-08 19:13:25 | [INFO]    | Connecting to Discord...
+2022-12-08 19:13:25 | [INFO]    | Authenticated as fargield#8541
+2022-12-08 19:13:25 | [INFO]    | Launching shard 0 (1 out of 1)...
+2022-12-08 19:13:25 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2022-12-08 19:13:25 | [INFO]    | Shard 0 : Received HELLO
+2022-12-08 19:13:25 | [INFO]    | Shard 0 : Received READY
+2022-12-08 19:13:46 | [INFO]    | Discordia 2.10.0-1
+2022-12-08 19:13:46 | [INFO]    | Connecting to Discord...
+2022-12-08 19:13:46 | [INFO]    | Authenticated as fargield#8541
+2022-12-08 19:13:46 | [INFO]    | Launching shard 0 (1 out of 1)...
+2022-12-08 19:13:46 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2022-12-08 19:13:46 | [INFO]    | Shard 0 : Received HELLO
+2022-12-08 19:13:47 | [INFO]    | Shard 0 : Received READY
+2022-12-08 19:14:02 | [INFO]    | Discordia 2.10.0-1
+2022-12-08 19:14:02 | [INFO]    | Connecting to Discord...
+2022-12-08 19:14:03 | [INFO]    | Authenticated as fargield#8541
+2022-12-08 19:14:03 | [INFO]    | Launching shard 0 (1 out of 1)...
+2022-12-08 19:14:03 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2022-12-08 19:14:03 | [INFO]    | Shard 0 : Received HELLO
+2022-12-08 19:14:03 | [INFO]    | Shard 0 : Received READY

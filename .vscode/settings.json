@@ -1,0 +1,12 @@
+{
+	"Lua.diagnostics.ignoredFiles": "Opened",
+	"Lua.diagnostics.libraryFiles": "Enable",
+	"Lua.hint.enable": true,
+	"Lua.hint.setType": true,
+	"Lua.runtime.builtin": {
+		"basic": "enable"
+	},
+	"Lua.semantic.keyword": false,
+	"Lua.workspace.ignoreSubmodules": false,
+	"Lua.misc.executablePath": "D:\\lua\\lua.exe"
+}
